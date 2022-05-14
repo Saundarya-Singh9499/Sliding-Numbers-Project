@@ -1,0 +1,92 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+#mainDiv{
+
+    height: 444px;
+    width: 95vw;
+    border: 2px solid aqua;
+    position: relative;
+    left: 20px;
+    top: 84px;
+    background-color: aqua;
+}
+
+#num{
+
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+    position: absolute;
+    left: 44%; 
+    top: 38%;
+    background-color: red;
+    
+}
+#count{
+
+    font-size: 80px;
+    text-align: center;
+    margin-top: 4px;
+}
+
+#arrowLeft{
+
+    height: 50px;
+    width: 50px;
+    border: 2px solid blueviolet;
+    position: absolute;
+    top: 40%;
+    background-color: blueviolet;
+
+}
+
+#arrowLeft i{
+
+    font-size: 44px;
+    margin: 2px;
+}
+
+#arrowRight{
+
+    height: 50px;
+    width: 50px;
+    border: 2px solid blueviolet;
+    position: absolute;
+    right: 2px;
+    top: 40%;
+    background-color: blueviolet;
+
+}
+
+#arrowRight i{
+
+    font-size: 44px;
+    margin: 2px;
+}
+
+#mssg{
+
+    position: absolute;
+    left: 28%;
+    bottom: 54px;
+    font-size: 44px;
+    font-family: cursive;
+    color: blueviolet;
+    font-weight: bolder;
+    
+
+}
+
+#numb{
+
+    height: 40px;
+    width: 400px;
+    font-size: 28px;
+    position: absolute;
+    left: 24%;
+    background-color:lightblue
+}
